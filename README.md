@@ -5,3 +5,4 @@ Blockchain application for Web3 marketplace smart contract and usage.Adding Fron
 
 # Features(Future Update)
 -->Create NFT
+-->Bid NFT
